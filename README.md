@@ -2,6 +2,8 @@
 
 Implementacja zadania egzaminacyjnego z podyplomowki PB JSDeveloper 2020/2021
 
+**Deployed version ->** [Here](https://b-lukaszuk.github.io/bouncingBall1/)
+
 # Task 3 Exam
 
 [EXAM] Create bouncy simulator. Get board from ExampleInput.js. X – border, 0 – boards object can travel, 1 – bouncing object. The program is to show how the object would travel and bounce against the walls. The program is to end when object comes back to original position.
